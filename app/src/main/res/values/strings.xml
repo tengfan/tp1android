@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">tp1android</string>
+
+    <string name="title_section1">SPORTS</string>
+    <string name="title_section2">FILMS</string>
+    <string name="title_section3">LIVRES</string>
+    <string name="title_section4">MUSIQUES</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="sports_info">Leonardo Jardim, l\'entraineur de Monaco, estime qu\'en cas de succes
+        de son equipe ce jeudi face a Qarabag, lors de la 3e journee de la phase de poules de la Ligue
+        europa, l\'ASM ferait un grand pas vers la qualification.</string>
+
+    <string name="films_info">Tenants du titre, les Irlandais restent plus que jamais candidats a
+        leur propre succession dans le Tournoi des 6 Nations apres leur victoire (19-9) ce dimanche,
+        a Dublin, face a l’Angleterre, privee du meme coup de Grand Chelem. Le XV du Trefle egale au
+        passage son record de 10 succes consecutifs, mais pourrait avoir perdu sur blessure Jonathan
+        Sexton encore decisif.</string>
+
+    <string name="livres_info">Imaginez que vous ayez le choix entre trois decors pour ecrire. Petit
+        a, le silence d\'une maison de campagne au petit matin, un feu de cheminee, des pantoufles en
+        alpaga. Petit b, une brasserie bruyante et suffisamment agitee pour qu’aucun regard n’ait le
+        temps de s’attarder sur la page Word ouverte de votre PC portable. Petit c, n’importe quel cadre
+        mais des centaines de paires d’yeux scrutant votre ecran en temps reel car vous ecrivez directement
+        sur un site. </string>
+
+    <string name="musiques_info">ecouter de la musique en travaillant peut être un bon moyen d’être
+        productif. encore que, tout depend du genre de melodie dans votre casque. Pour vous aider a
+        y voir plus clair, ou plutôt a y entendre plus clair, suivez les conseils de Toggl. La societe
+        editrice d’un outil de gestion du temps a compile les resultats de sept etudes differentes en
+        une infographie (en anglais).</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
